@@ -1,5 +1,3 @@
-## Spacerings privacy policy notices
-
 ### Privacy Policy
 
 Premiera Game built the Spacerings app as a Free app. This SERVICE is provided by Premiera Game at no cost and is intended for use as is.
