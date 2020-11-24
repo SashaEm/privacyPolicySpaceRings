@@ -64,4 +64,4 @@ This policy is effective as of 2020-11-24
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us [here](pavel.yarovyi@gmail.com).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at pavel.yarovyi@gmail.com.
