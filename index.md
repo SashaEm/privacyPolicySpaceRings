@@ -18,11 +18,15 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Google Play Services - https://policies.google.com/privacy
-AdMob - http://support.google.com/admob/answer/6128543?hl=en
-Google Analytics for Firebase - http://firebase.google.com/policies/analytics
-Firebase Crashlytics - http://firebase.google.com/support/privacy/
-Unity - http://unity3d.com/legal/privacy-policy
+[Google Play Services](https://policies.google.com/privacy)
+
+[AdMob](http://support.google.com/admob/answer/6128543?hl=en)
+
+[Google Analytics for Firebase](http://firebase.google.com/policies/analytics)
+
+[Firebase Crashlytics](http://firebase.google.com/support/privacy/)
+
+[Unity](http://unity3d.com/legal/privacy-policy)
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information through third party products on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
@@ -62,4 +66,4 @@ This policy is effective as of 2020-11-24
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at pavel.yarovyi@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us [here](pavel.yarovyi@gmail.com).
